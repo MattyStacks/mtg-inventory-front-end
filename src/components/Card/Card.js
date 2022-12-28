@@ -12,6 +12,7 @@ function Card({ name, image, type, cost, rarity, set }) {
         <p className="card-cost">{cost}</p>
         <p className="card-rarity">{rarity}</p>
         <p className="card-set">{set}</p>
+        <p>testing card output</p>
       </div>
     </div>
   );

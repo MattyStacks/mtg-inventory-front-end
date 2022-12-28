@@ -1,0 +1,22 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "name": "Lightning Bolt",
+        "image": "https://example.com/lightning-bolt.jpg",
+        "type": "Instant",
+        "cost": "R",
+        "rarity": "Common",
+        "set": "Alpha"
+      },
+      {
+        "id": 2,
+        "name": "Swamp",
+        "image": "https://example.com/swamp.jpg",
+        "type": "Land",
+        "cost": "",
+        "rarity": "Basic",
+        "set": "Alpha"
+      }
+    ]
+  }
